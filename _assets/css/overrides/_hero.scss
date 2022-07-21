@@ -1,5 +1,5 @@
 // Override USWDS mixin to use jekyll-assets asset_url()
 
 .usa-hero {
-  background-image: /_assets/img/hero-field-w-grapes.jpg !important;
+  background-image: url(/_assets/img/hero-field-w-grapes.jpg) !important;
 }

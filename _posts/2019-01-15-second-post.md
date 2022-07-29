@@ -1,14 +1,27 @@
 ---
-title: Second page
+title: WWTG Participation Guidelines
 description: The second page as it says
 layout: post
-date: January 15, 2019
-author: George Washington
+author: SDooley
+date: July 29, 2022
 excerpt: This is an excerpt for second page
 ---
+#  World Wine Trade Group Participation Guidelines
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dapibus interdum pellentesque. Integer eu vehicula elit. Sed cursus magna in dui suscipit rhoncus.
+## What is the World Wine Trade Group? 
 
-Curabitur sed elit viverra, fermentum massa non, hendrerit ex. Vivamus eget mattis tortor, eu elementum sapien. Praesent elementum feugiat nisi venenatis vestibulum. Nulla pretium ipsum orci, ut feugiat arcu facilisis sit amet.
+The World Wine Trade Group, sometimes called “the Group” is an informal group of government representatives with a mutual interest in facilitating the international trade in wine and avoiding the application of obstacles to international trade in wine. The WWTG welcomes and encourages participation in the Group of any national governments or members of the World Trade Organisation interested in furthering these goals. 
 
-Morbi bibendum est non nibh aliquam, non dictum massa elementum. Nullam vitae auctor erat. Mauris at arcu ut purus sodales porttitor ut sit amet ex. Donec viverra quam nisl, a congue arcu fermentum rhoncus.
+## How to join the World Wine Trade Group? 
+
+Any potential participant wishing to take part in a WWTG meeting may express an interest to the host of the next meeting. The host will communicate this interest to the founding participants and other parties to any Agreements adopted under the auspices of the WWTG who, through consensus, may take any appropriate decision about the nature and form of participation by the interested applicant in the WWTG. 
+
+## How are agreements adopted? 
+
+When the WWTG decides to negotiate an Agreement on a particular subject matter it should do so initially on the basis of generally agreed principles and objectives for the proposed agreement. For example, the decision to negotiate towards a labelling agreement has been based on general acceptance by WWTG participants of the principles identified in the Sonoma industry statement. 
+
+Such principles will guide the Group in its negotiations and provide a reference point for considering progress towards attaining the goal(s) envisaged for the agreement. Accordingly, negotiations toward an agreement on any particular subject matter should be open to those participants in the WWTG that believe they can proceed to conclude an agreement on the basis of the identified principles and objectives. 
+
+## Who are the parties of the agreement? 
+
+The operation of agreements concluded under the auspices of the WWTG is independent of the workings of the WWTG. For example, the Council of the Parties established under the Agreement on Mutual Acceptance of Oenological Practices exists for the purposes of that Agreement. The Council operates in accordance with its own rules of procedure, independent of the workings of the WWTG.

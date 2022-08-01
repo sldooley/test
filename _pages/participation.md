@@ -2,7 +2,6 @@
 title: WWTG Participation Guidelines
 layout: page
 sidenav: false
-permalink: /participation/
 ---
 
 # World Wine Trade Group Participation Guidelines

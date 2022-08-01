@@ -4,7 +4,7 @@ layout: page
 sidenav: false
 ---
 
-# World Wine Trade Group Participation Guidelines
+# WWTG Participation Guidelines
 
 ## What is the World Wine Trade Group?
 The World Wine Trade Group, sometimes called “the Group” is an informal group of government representatives with a mutual interest in facilitating the international trade in wine and avoiding the application of obstacles to international trade in wine. The WWTG welcomes and encourages participation in the Group of any national governments or members of the World Trade Organisation interested in furthering these goals.

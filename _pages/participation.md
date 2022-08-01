@@ -1,6 +1,6 @@
 ---
 title: WWTG Participation Guidelines
-layout: base
+layout: page
 sidenav: false
 ---
 

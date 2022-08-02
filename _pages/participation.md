@@ -18,3 +18,9 @@ Accordingly, negotiations toward an agreement on any particular subject matter s
 
 ## Who are the parties of the agreement?
 The operation of agreements concluded under the auspices of the WWTG is independent of the workings of the WWTG. For example, the Council of the Parties established under the Agreement on Mutual Acceptance of Oenological Practices exists for the purposes of that Agreement. The Council operates in accordance with its own rules of procedure, independent of the workings of the WWTG. 
+
+<div class="tile_div">
+    <a href="#">Guidelines in Spanish</a>
+    <a href="#">Annex to the Guidelines for Participation April 2014</a>
+        <div class="clear"></div>
+</div>

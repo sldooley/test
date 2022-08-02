@@ -12,16 +12,15 @@ The MAA is not a single set of wine-making standards. Rather, it provides for mu
 The MAA benefits winemakers, exporters and importers by assuring them access to markets without the costs and frustrations of trade barriers based on differences in wine-making practices.
 
 <div class="tile_div">
-    <a href="#">MAA PDF in English, Spanish, and French</a>
-    <a href="#">Annex to the Guidelines for Participation April 2014</a>
-        <div class="clear"></div>
+    <a href="https://github.com/sldooley/test/files/9245376/maa.pdf">MAA PDF in English, Spanish, and French</a>
+            <div class="clear"></div>
 </div>
 
 ## Parties and Status
 ---
 <h3 align="center"> Status of Agreement of Mutual Acceptance of Oenological Practices, with Annex</h3>
 <p align="center">Done at Toronto December 18, 2001</p>
-<p align="center">*In accordance with Article 12, paragraph 1, the Agreement was open for signature by Argentina, Australia, Canada, Chile, New Zealand, South Africa and the United States of America until March 31, 2002. The Agreement was signed by Australia, Canada, Chile, New Zealand and the United States of America on December 18, 2001.*</p>
+<p align="center"><em>In accordance with Article 12, paragraph 1, the Agreement was open for signature by Argentina, Australia, Canada, Chile, New Zealand, South Africa and the United States of America until March 31, 2002. The Agreement was signed by Australia, Canada, Chile, New Zealand and the United States of America on December 18, 2001.</p></em>
 
 | State           | Date of Deposit of Instrument | Status             | Date of Entry Into Force [^1] |
 | :---            |    :----:                     | :----:             |  ---:                         |
@@ -43,7 +42,7 @@ By note dated November 8, 2018, received on November 13, 2018, the Minister of F
 Department of State,  Washington, May 2, 2019. 
 
 <div class="tile_div">
-    <a href="#">Download a PDF of the Parties with Status</a>
+    <a href="https://github.com/sldooley/test/files/9245380/maaparties.pdf">Download a PDF of the Parties with Status</a>
           <div class="clear"></div>
 </div>
 

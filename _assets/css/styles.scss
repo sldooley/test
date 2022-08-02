@@ -87,7 +87,7 @@ i.e.
    font-family: Source Sans Pro Web, Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
     font-size: 1.06rem;
     line-height: 0.9;
-    color: white;
+    color: #ffffff;
     background-color: #005ea2;
     -webkit-appearance: none;
     -moz-appearance: none;
@@ -104,6 +104,13 @@ i.e.
     float: left;
     margin-right: 35px;
     margin-bottom: 25px;
+}
+
+.usa-button:hover, .usa-button.usa-button--hover {
+    color: #ffffff;
+    background-color: #1a4480;
+    border-bottom: 0;
+    text-decoration: none;
 }
 
 .title_div a.last {

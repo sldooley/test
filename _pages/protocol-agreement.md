@@ -7,7 +7,7 @@ sidenav: false
 
 The Protocol was signed on March 22, 2013 in Brussels, Belgium.
 
-| List of Wine Regions in accordance with the <br>WWTG Labelling Protocol Article 4.3 (e)  | Linkages in accordance with the <br>WWTG Labelling Protocol Article 5, paragraphs 1-2   |
+| List of Wine Regions in accordance with the <br>WWTG Labelling Protocol Article 4.3 (e)  | Linkages in accordance with the WWTG <br>Labelling Protocol Article 5, paragraphs 1-2   |
 | :---                                                                                     |    :---                                                                                 |          
 | Argentina Regions                                                                        | Argentina Linkages                                                                      |    
 | Australia Regions                                                                        | Australia Linkages                                                                      |        

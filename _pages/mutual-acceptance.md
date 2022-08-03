@@ -25,7 +25,7 @@ The MAA benefits winemakers, exporters and importers by assuring them access to 
 
 
 | State           | Date of Deposit of Instrument | Status             | Date of Entry Into Force [^1] |
-| :---            |    :----:                     | :----:             |  ---:                         |
+| :---            |    :----:                     | :----:             |  :---:                        |
 | Argentina       | Feb. 8, 2005                  | Accession          | Mar. 1, 2005                  |
 | Australia       | Feb. 22, 2005                 | Ratification       | Mar. 1, 2005                  |
 | Canada          | Nov. 27, 2002                 | Ratification       | Dec. 1, 2002                  |

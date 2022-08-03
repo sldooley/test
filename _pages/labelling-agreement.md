@@ -16,3 +16,31 @@ These principles set a positive benchmark in wine labelling, promoting clarity a
     <a href="https://github.com/sldooley/test/files/9251871/initialing-labelling-agreement.pdf">Initialing Labelling Agreement PDF in English</a>
             <div class="clear"></div>
 </div>
+
+## Parties and Status
+---
+### Status of Agreement of Mutual Acceptance of Oenological Practices, with Annex
+#### Done at Canberra; January 23, 2007 
+*In accordance with Article 19, paragraph 1, the Agreement was open for signature until December 1, 2007, by parties to the Agreement on Mutual Acceptance of Oenological Practices, done at Toronto December 18, 2001.*
+
+#### Entry into force: July 1, 2010
+*In accordance with Article 19, paragraph 3, the Agreement shall enter into force on the first day of the month following the date the depositary receives the second instrument of ratification, acceptance or approval.  The Agreement enters into force for each subsequent signatory State on the first day of the month following the date of deposit of its instrument of ratification, acceptance or approval.  Any non-signatory State that fulfills the requirements of Article 20 of the Agreement may accede thereto.  The Agreement shall enter into force for any acceding State on the first day of the month following the date of deposit of its instrument of accession.*
+
+
+| Participant     | Signature        | Consent to be Bound |  Status        | Entry Into Force  | 
+| :---            |    :----:        |    :----:           | :----:         |  :---:            |
+| Argentina       | January 23, 2007 | December 6, 2010    | Ratification   | January 1, 2011   |
+| Australia       | January 23, 2007 | May 24, 2012        | Ratification   | June 1, 2012      |
+| Canada          | January 23, 2007 | July 27, 2015       | Ratification   | August 1, 2015    |
+| Chile           | January 23, 2007 | November 21, 2008   | Ratification   | July 1, 2010      |
+| Georgia         |                  | September 11, 2012  | Accession      | October 1, 2012   |
+| New Zealand [^1]| January 23, 2007 | June 11, 2010       | Ratification   | July 1, 2010      |
+| South Africa    |                  | July 18, 2011       | Accession      | August 1, 2011    |
+| United States   | January 23, 2007 | October 1, 2013     | Acceptance     | November 1, 2013  |
+
+[^1]: The instrument of ratification of the Agreement by New Zealand includes the following declaration:  “. . . consistent with the constitutional status of Tokelau and taking into account the commitment of the Government of New Zealand to the development of self-government for Tokelau through an act of self-determination under the Charter of the United Nations, this ratification shall not extend to Tokelau unless and until a Declaration to this effect is lodged by the Government of New Zealand with the Depositary on the basis of appropriate consultation with that territory . . .”  
+
+<div class="tile_div">
+    <a href="https://github.com/sldooley/test/files/9252113/labeling-parties.pdf">Download a PDF of the Parties with Status</a>
+          <div class="clear"></div>
+</div>

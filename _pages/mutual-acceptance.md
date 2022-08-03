@@ -13,6 +13,7 @@ The MAA benefits winemakers, exporters and importers by assuring them access to 
 
 <div class="tile_div">
     <a href="https://github.com/sldooley/test/files/9245376/maa.pdf">MAA PDF in English, Spanish, and French</a>
+    <a href="https://federalist-4401490c-70b3-49a2-81a1-7175eeb5306d.app.cloud.gov/site/sldooley/test/cape-town-statement/">Cape Town Joint Statement</a>
             <div class="clear"></div>
 </div>
 

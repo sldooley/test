@@ -12,4 +12,4 @@ World Wine Trade Group Governments endorse the following additional regulatory p
 1. at a level that does not present a public health or safety concern; and 
 2. at or below levels that may be found in wines from the same origin produced in accordance with good agricultural practice and good oenological practice.
 
-November 16, 2018 
+*November 16, 2018*

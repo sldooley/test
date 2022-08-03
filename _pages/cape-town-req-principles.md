@@ -14,4 +14,4 @@ World Wine Trade Group Governments endorse the following additional regulatory p
 
 [^1] These regulatory principles for wine should be read in conjunction with the World Wine Trade Group Tbilisi Statement on Analytical Methodology and Regulatory Limits on Constituents and Potential Contaminants in Wine. 
 
-3 November, 2017 
+*3 November, 2017*

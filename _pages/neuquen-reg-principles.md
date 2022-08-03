@@ -1,5 +1,5 @@
 ---
-title: Regulatory Principles 
+title: Neuquén Regulatory Principles
 layout: page
 sidenav: false
 ---

@@ -79,21 +79,33 @@ ga:
 primary_navigation:
   - name: Home
     url: /
-  - name: Blog
-    url: /blog/
-  - name: Document
-    url: /document/
+  - name: Agreements
+    children:
+      - name: Mutual Acceptance
+        url: /mutual-acceptance
+      - name: Labelling Requirements
+        url: /labelling-agreement
+      - name: Memorandum of Understanding
+        url: /mou
+      - name: Protocol Requirements
+        url: /protocol-agreement
+      - name: Arrangement on Information Exchange, Technical Cooperation and Counterfeiting
+        url: https://github.com/sldooley/test/files/9254357/2017-arrangement.pdf 
+  - name: Statements & Reports
+    children:
+      - name: 20th Anniversary Statement
+        url: /twenty-yr-statement
+      - name: Labelling Requirements
+        url: /labelling-agreement
+      - name: Memorandum of Understanding
+        url: /mou
+      - name: Protocol Requirements
+        url: /protocol-agreement
+      - name: Arrangement on Information Exchange, Technical Cooperation and Counterfeiting
+        url: https://github.com/sldooley/test/files/9254357/2017-arrangement.pdf 
   - name: Document with sidenav
     url: /document-with-sidenav/
-  - name: Document submenu
-    children:
-      - name: Navigation link
-        url: "#main-content"
-      - name: Navigation link
-        url: "#main-content"
-      - name: Navigation link
-        url: "#main-content"
-
+    
 secondary_navigation:
   - name: Secondary link
     url: "#main-content"

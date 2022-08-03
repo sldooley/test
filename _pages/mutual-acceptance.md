@@ -19,8 +19,9 @@ The MAA benefits winemakers, exporters and importers by assuring them access to 
 ## Parties and Status
 ---
 ### Status of Agreement of Mutual Acceptance of Oenological Practices, with Annex
-#### Done at Toronto December 18, 2001
+#### Done at Toronto December 18, 2001 
 #### *In accordance with Article 12, paragraph 1, the Agreement was open for signature by Argentina, Australia, Canada, Chile, New Zealand, South Africa and the United States of America until March 31, 2002. The Agreement was signed by Australia, Canada, Chile, New Zealand and the United States of America on December 18, 2001.*
+
 
 
 | State           | Date of Deposit of Instrument | Status             | Date of Entry Into Force [^1] |

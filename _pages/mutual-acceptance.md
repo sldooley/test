@@ -18,9 +18,7 @@ The MAA benefits winemakers, exporters and importers by assuring them access to 
 
 ## Parties and Status
 ---
-<h3 align="center"> Status of Agreement of Mutual Acceptance of Oenological Practices, with Annex</h3>
-<p align="center">Done at Toronto December 18, 2001</p>
-<p align="center"><em>In accordance with Article 12, paragraph 1, the Agreement was open for signature by Argentina, Australia, Canada, Chile, New Zealand, South Africa and the United States of America until March 31, 2002. The Agreement was signed by Australia, Canada, Chile, New Zealand and the United States of America on December 18, 2001.</p></em>
+
 
 | State           | Date of Deposit of Instrument | Status             | Date of Entry Into Force [^1] |
 | :---            |    :----:                     | :----:             |  ---:                         |
@@ -40,11 +38,6 @@ The MAA benefits winemakers, exporters and importers by assuring them access to 
 Department of State English translation:“Upon accession to the Agreement on Mutual Acceptance of Oenological Practices, Uruguay hereby confirms that certain oenological practices are not recognized or admitted in domestic production, which does not prevent the import of certain wines provided that their authenticity and quality are duly accredited by the certifying authorities of the exporting country.”  
 By note dated November 8, 2018, received on November 13, 2018, the Minister of Foreign Affairs of Uruguay notified the depositary of Uruguay’s decision to withdraw the interpretative declaration.  
 Department of State,  Washington, May 2, 2019. 
-
-<div class="tile_div">
-    <a href="https://github.com/sldooley/test/files/9245380/maaparties.pdf">Download a PDF of the Parties with Status</a>
-          <div class="clear"></div>
-</div>
 
 
 WWTG Governments can review members laws related to oenological practices via the [FIVS-Abridge database](http://fivs-abridge.com/index.htm;jsessionid=B22D42504DB5A6F47DD9122945C14123). 

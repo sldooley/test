@@ -93,18 +93,19 @@ primary_navigation:
         url: https://github.com/sldooley/test/files/9254357/2017-arrangement.pdf 
   - name: Statements & Reports
     children:
-      - name: 20th Anniversary Statement
+      - name: 20th Anniversary Statement (2018)
         url: /twenty-yr-statement
-      - name: Labelling Requirements
-        url: /labelling-agreement
-      - name: Memorandum of Understanding
-        url: /mou
-      - name: Protocol Requirements
-        url: /protocol-agreement
-      - name: Arrangement on Information Exchange, Technical Cooperation and Counterfeiting
-        url: https://github.com/sldooley/test/files/9254357/2017-arrangement.pdf 
-  - name: Document with sidenav
-    url: /document-with-sidenav/
+      - name: Regulatory Principles (2018)
+        url: /neuquen-reg-principles
+      - name: 2019 London Winegrowing Statistics
+        url: https://github.com/sldooley/test/files/9254427/2019wwtg.pdf
+      - name: Cape Town Regulatory Principles
+        url: /cape-town-reg-principles
+      - name: Microbiological Food Safety
+        url: https://github.com/sldooley/test/files/9254501/microbiological-food-safety.pdf
+      - name: Analytical Methodology
+        url: /analytical-methodology 
+ 
     
 secondary_navigation:
   - name: Secondary link

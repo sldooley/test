@@ -6,6 +6,7 @@ sidenav: false
 
 # Joint Statement by The Governments and Wine Industries of The Member Countries of the World Wine Trade Group
 *Cape Town, 3 July 2022*
+
 The World Wine Trade Group (WWTG), formerly called the New World Wine Producers' Forum, met in Cape Town on 1-3 July to address trends and policy developments in global wine trade.
 
 Sixty senior government and wine industry delegates from the Argentine Republic, Australia, Canada, Chile, New Zealand, South Africa and the United States of America attended the meeting. Representatives from Brazil and Uruguay attended as observers.

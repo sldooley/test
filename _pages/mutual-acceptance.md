@@ -18,6 +18,9 @@ The MAA benefits winemakers, exporters and importers by assuring them access to 
 
 ## Parties and Status
 ---
+### Status of Agreement of Mutual Acceptance of Oenological Practices, with Annex
+#### Done at Toronto December 18, 2001
+#### *In accordance with Article 12, paragraph 1, the Agreement was open for signature by Argentina, Australia, Canada, Chile, New Zealand, South Africa and the United States of America until March 31, 2002. The Agreement was signed by Australia, Canada, Chile, New Zealand and the United States of America on December 18, 2001.*
 
 
 | State           | Date of Deposit of Instrument | Status             | Date of Entry Into Force [^1] |
@@ -34,9 +37,7 @@ The MAA benefits winemakers, exporters and importers by assuring them access to 
 
 [^1]: In accordance with Article 12, paragraph 3, the Agreement enters into force on the first day of the month following the date of deposit of the second instrument of ratification, acceptance or approval. It shall enter into force for each subsequent signatory or acceding state on the first day of the month following the deposit of its instrument of ratification, acceptance, approval or accession.
 [^2]: The instrument of ratification of the Agreement by New Zealand includes the following declaration: “...consistent with the constitutional status of Tokelau and taking into account the commitment of the Government of New Zealand to the development of self-government for Tokelau through an act of self-determination under the Charter of the United Nations, this ratification shall not extend to Tokelau unless and until a Declaration to this effect is lodged by the Government of New Zealand with the Depositary on the basis of appropriate consultation with that territory...”  
-[^3]: The notification of accession to the Agreement by Uruguay includes the following interpretative declaration 
-Department of State English translation:“Upon accession to the Agreement on Mutual Acceptance of Oenological Practices, Uruguay hereby confirms that certain oenological practices are not recognized or admitted in domestic production, which does not prevent the import of certain wines provided that their authenticity and quality are duly accredited by the certifying authorities of the exporting country.”  
-By note dated November 8, 2018, received on November 13, 2018, the Minister of Foreign Affairs of Uruguay notified the depositary of Uruguay’s decision to withdraw the interpretative declaration.  
+[^3]: The notification of accession to the Agreement by Uruguay includes the following interpretative declaration - Department of State English translation:“Upon accession to the Agreement on Mutual Acceptance of Oenological Practices, Uruguay hereby confirms that certain oenological practices are not recognized or admitted in domestic production, which does not prevent the import of certain wines provided that their authenticity and quality are duly accredited by the certifying authorities of the exporting country.” By note dated November 8, 2018, received on November 13, 2018, the Minister of Foreign Affairs of Uruguay notified the depositary of Uruguay’s decision to withdraw the interpretative declaration.  
 Department of State,  Washington, May 2, 2019. 
 
 

@@ -12,6 +12,6 @@ Noting that the MAA already provided that routine certification should not be re
 The Certification MOU facilitates international trade in wine, by providing that routine certification of wine composition should not be required other than on health and safety grounds consistent with WTO rules, as well as requiring that any certification must be in line with Codex standards.
 
 <div class="tile_div">
-    <a href="https://github.com/sldooley/test/files/9252353/mou.pdf">Download a PDF of the MOU on Certification Requirements</a>
+    <a href="https://federalist-4401490c-70b3-49a2-81a1-7175eeb5306d.app.cloud.gov/site/sldooley/test/mou.pdf">Download a PDF of the MOU on Certification Requirements</a>
           <div class="clear"></div>
 </div>

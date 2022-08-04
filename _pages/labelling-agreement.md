@@ -11,9 +11,9 @@ The Labelling Agreement means that consumers are able to easily locate important
 These principles set a positive benchmark in wine labelling, promoting clarity and consistency in information shown across different markets. These principles could provide the basis for a global standard if adopted by sufficient international bodies and countries – given that Codex Alimentarius Commission does not have an international standard for wine labelling.
 
 <div class="tile_div">
-    <a href="https://github.com/sldooley/test/files/9251838/labelling-agreement.pdf">Labelling Agreement PDF in English, Spanish, and French</a>
+    <a href="https://federalist-4401490c-70b3-49a2-81a1-7175eeb5306d.app.cloud.gov/site/sldooley/test/labelling-agreement.pdf">Labelling Agreement PDF in English, Spanish, and French</a>
     <a href="https://federalist-4401490c-70b3-49a2-81a1-7175eeb5306d.app.cloud.gov/site/sldooley/test/canberra-statement/">Canberra Statement</a>
-    <a href="https://github.com/sldooley/test/files/9251871/initialing-labelling-agreement.pdf">Initialing Labelling Agreement PDF in English</a>
+    <a href="https://federalist-4401490c-70b3-49a2-81a1-7175eeb5306d.app.cloud.gov/site/sldooley/test/initialing-labelling-agreement.pdf">Initialing Labelling Agreement PDF in English</a>
             <div class="clear"></div>
 </div>
 
@@ -41,6 +41,6 @@ These principles set a positive benchmark in wine labelling, promoting clarity a
 [^1]: The instrument of ratification of the Agreement by New Zealand includes the following declaration:  “. . . consistent with the constitutional status of Tokelau and taking into account the commitment of the Government of New Zealand to the development of self-government for Tokelau through an act of self-determination under the Charter of the United Nations, this ratification shall not extend to Tokelau unless and until a Declaration to this effect is lodged by the Government of New Zealand with the Depositary on the basis of appropriate consultation with that territory . . .”  
 
 <div class="tile_div">
-    <a href="https://github.com/sldooley/test/files/9252113/labeling-parties.pdf">Download a PDF of the Parties with Status</a>
+    <a href="https://federalist-4401490c-70b3-49a2-81a1-7175eeb5306d.app.cloud.gov/site/sldooley/test/labeling-parties.pdf">Download a PDF of the Parties with Status</a>
           <div class="clear"></div>
 </div>

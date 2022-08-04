@@ -12,15 +12,16 @@ The Protocol was signed on March 22, 2013 in Brussels, Belgium.
 | Argentina Regions                                                                        | Argentina Linkages                                                                      |    
 | Australia Regions                                                                        | Australia Linkages                                                                      |        
 | Canada Regions                                                                           | Canada Linkages                                                                         |        
-| [Chile Regions](https://github.com/sldooley/test/files/9253209/chilewineregions.pdf)     | [Chile Linkages](https://github.com/sldooley/test/files/9253243/chilelinkages.pdf)      |       
-| [Georgia Regions](https://github.com/sldooley/test/files/9253219/georgiawineregions.pdf) | [Georgia Linkages](https://github.com/sldooley/test/files/9253269/georgialinkages.pdf)  |         
-| [New Zealand Regions](https://github.com/sldooley/test/files/9253223/nzwineregions.pdf)  | [New Zealand Linkages](https://github.com/sldooley/test/files/9253259/nzlinkages.pdf)   |     
-| [South Africa Regions](https://github.com/sldooley/test/files/9253227/sawineregions.pdf) | [South Africa Linkages](https://github.com/sldooley/test/files/9253254/salinkages.pdf)  |       
+| [Chile Regions](https://federalist-4401490c-70b3-49a2-81a1-7175eeb5306d.app.cloud.gov/site/sldooley/test/chilewineregions.pdf)     | [Chile Linkages](https://federalist-4401490c-70b3-49a2-81a1-7175eeb5306d.app.cloud.gov/site/sldooley/test/chilelinkages.pdf)      |       
+| [Georgia Regions](https://federalist-4401490c-70b3-49a2-81a1-7175eeb5306d.app.cloud.gov/site/sldooley/test/georgiawineregions.pdf) | [Georgia Linkages](https://federalist-4401490c-70b3-49a2-81a1-7175eeb5306d.app.cloud.gov/site/sldooley/test/georgialinkages.pdf)  |         
+| [New Zealand Regions](https://federalist-4401490c-70b3-49a2-81a1-7175eeb5306d.app.cloud.gov/site/sldooley/test/nzwineregions.pdf)  | [New Zealand Linkages](https://federalist-4401490c-70b3-49a2-81a1-7175eeb5306d.app.cloud.gov/site/sldooley/test/nzlinkages.pdf)   |     
+| [South Africa Regions](https://federalist-4401490c-70b3-49a2-81a1-7175eeb5306d.app.cloud.gov/site/sldooley/test/sawineregions.pdf) | [South Africa Linkages](https://federalist-4401490c-70b3-49a2-81a1-7175eeb5306d.app.cloud.gov/site/sldooley/test/salinkages.pdf)  |       
 | United States of America Regions                                                         | United States of America Linkages                                                       |   
 
 <div class="tile_div">
-    <a href="https://github.com/sldooley/test/files/9253278/canada-protocol.pdf">Canada's Accession Application</a>
-   <a href="https://github.com/sldooley/test/files/9253302/maa-correction.pdf">Correction of Article 4, paragraph 4B</a>
+     <a href="https://federalist-4401490c-70b3-49a2-81a1-7175eeb5306d.app.cloud.gov/site/sldooley/test/protocol.pdf">Protocol Requirements Agreement</a>
+    <a href="https://federalist-4401490c-70b3-49a2-81a1-7175eeb5306d.app.cloud.gov/site/sldooley/test/canada-protocol.pdf">Canada's Accession Application</a>
+   <a href="https://federalist-4401490c-70b3-49a2-81a1-7175eeb5306d.app.cloud.gov/site/sldooley/test/maa-correction.pdf">Correction of Article 4, paragraph 4B</a>
           <div class="clear"></div>
 </div>
 
@@ -48,6 +49,6 @@ The Protocol was signed on March 22, 2013 in Brussels, Belgium.
 [^1]: The instrument of ratification of the Agreement by New Zealand includes the following declaration:  “. . . consistent with the constitutional status of Tokelau and taking into account the commitment of the Government of New Zealand to the development of self-government for Tokelau through an act of self-determination under the Charter of the United Nations, this ratification shall not extend to Tokelau unless and until a Declaration to this effect is lodged by the Government of New Zealand with the Depositary on the basis of appropriate consultation with that territory . . .”  
 
 <div class="tile_div">
-    <a href="https://github.com/sldooley/test/files/9253374/protocolparties.pdf">Download a PDF of the Parties with Status</a>
+    <a href="https://federalist-4401490c-70b3-49a2-81a1-7175eeb5306d.app.cloud.gov/site/sldooley/test/protocolparties.pdf">Download a PDF of the Parties with Status</a>
           <div class="clear"></div>
 </div>

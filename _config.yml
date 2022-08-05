@@ -81,7 +81,7 @@ primary_navigation:
     url: /
   - name: Participation
     url: /participation/
-  - name: Mission
+  - name: Our Mission
     url: /mission-vision-objective/
   - name: Agreements
     children:

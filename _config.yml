@@ -80,9 +80,9 @@ primary_navigation:
   - name: Home
     url: /
     - name: Participation
-    url: /participation.md
+    url: /participation
     - name: Mission
-    url: /mission-vision-objective.md
+    url: /mission-vision-objective
   - name: Agreements
     children:
       - name: Mutual Acceptance

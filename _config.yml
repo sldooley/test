@@ -79,6 +79,10 @@ ga:
 primary_navigation:
   - name: Home
     url: /
+    - name: Participation
+    url: /participation.md
+    - name: Mission
+    url: /mission-vision-objective.md
   - name: Agreements
     children:
       - name: Mutual Acceptance

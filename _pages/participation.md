@@ -39,7 +39,7 @@ Annex to the WWTG Guidlines on Participation: Outlining the Process for Accessio
 
 - Unless otherwise agreed by the Participants, once these steps, 1 and 2, are completed, the Participants will invite the candidate country to become a Participant by adhering to the 2001 Agreement by the next annual meeting of the WWTG.
 
-[^1] Footnote: the term "participant country" is consistent with the original intention of WWTG countries to operate without a secretariat, employees, dues or formal membership and hence no members but only "participants". Participant status can only be achieved by adhering to the 2001 Agreement, unless otherwise agreed by the current Participants, as stated in paragraph 3 of this Annex.
+[^1]: The term "participant country" is consistent with the original intention of WWTG countries to operate without a secretariat, employees, dues or formal membership and hence no members but only "participants". Participant status can only be achieved by adhering to the 2001 Agreement, unless otherwise agreed by the current Participants, as stated in paragraph 3 of this Annex.
 
 <div class="tile_div">
      <a href="/annex-guidelines-2014.pdf">Annex to the Guidelines for Participation April 2014</a>

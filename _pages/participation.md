@@ -33,13 +33,11 @@ Any potential participant wishing to take part in a WWTG meeting may express an 
 
 Annex to the WWTG Guidlines on Participation: Outlining the Process for Accession to the WWTG (Adopted April 11, 2014):
 
-- The candidate country firstly provides information to all WWTG participant countries[^1] (Participants) on its policies, laws and regulations concerning oenological practices. This information is provided to the WWTG Chair and distributed to Participants via the electronic depositary. WWTG Participants have the opportunity to put questions to the candidate country relating to this information and to seek more detail as appropriate. This is a two-way process and the candidate can ask existing Participants how they have adjusted policies, laws and regulations in order to conform to the WWTG Agreements. This process concludes when all WWTG Participants have given their acceptance of the candidate country's laws, regulations, and requirements relating to oenological practices.
+- The candidate country firstly provides information to all WWTG participant countries<sup>1</sup> (Participants) on its policies, laws and regulations concerning oenological practices. This information is provided to the WWTG Chair and distributed to Participants via the electronic depositary. WWTG Participants have the opportunity to put questions to the candidate country relating to this information and to seek more detail as appropriate. This is a two-way process and the candidate can ask existing Participants how they have adjusted policies, laws and regulations in order to conform to the WWTG Agreements. This process concludes when all WWTG Participants have given their acceptance of the candidate country's laws, regulations, and requirements relating to oenological practices.
 
 - Thereafter, the candidate country confirms in writing to the WWTG Chair, its willingness to adhere formally to the 2001 WWTG Agreement on Mutual Acceptance of Oenological Practices (2001 Agreement). The Participants will encourage candidate countries to also adhere to the 2007 WWTG Agreement on Requirements for Wine Labelling, together with the 2013 Protocol to the 2007 Agreement, and any other WWTG agreements.
 
 - Unless otherwise agreed by the Participants, once these steps, 1 and 2, are completed, the Participants will invite the candidate country to become a Participant by adhering to the 2001 Agreement by the next annual meeting of the WWTG.
-
-[^1]: The term "participant country" is consistent with the original intention of WWTG countries to operate without a secretariat, employees, dues or formal membership and hence no members but only "participants". Participant status can only be achieved by adhering to the 2001 Agreement, unless otherwise agreed by the current Participants, as stated in paragraph 3 of this Annex.
 
 <div class="tile_div">
      <a href="/annex-guidelines-2014.pdf">Annex to the Guidelines for Participation April 2014</a>
@@ -61,3 +59,6 @@ The operation of agreements concluded under the auspices of the WWTG is independ
     <a href="/guidelines-spanish.pdf">Guidelines in Spanish</a>
             <div class="clear"></div>
 </div>
+
+
+<div style="font-size:14px;"><ol><li>The term "participant country" is consistent with the original intention of WWTG countries to operate without a secretariat, employees, dues or formal membership and hence no members but only "participants". Participant status can only be achieved by adhering to the 2001 Agreement, unless otherwise agreed by the current Participants, as stated in paragraph 3 of this Annex.</li></ol> </div>

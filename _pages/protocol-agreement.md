@@ -42,13 +42,14 @@ The Protocol was signed on March 22, 2013 in Brussels, Belgium.
 | Canada          |                  | November 9, 2018    | Acceptance     | January 1, 2019   |
 | Chile           | March 22, 2013   | June 24, 2015       | Ratification   | August 1, 2015    |
 | Georgia         | March 22, 2013   | May 22, 2013        | Approval       | November 1, 2013  |
-| New Zealand [^1]| March 22, 2013   | September 27, 2013  | Ratification   | November 1, 2013  |
+| New Zealand<sup>1</sup>| March 22, 2013   | September 27, 2013  | Ratification   | November 1, 2013  |
 | South Africa    | October 18, 2018 |                     | Ratification   |                   |
 | United States   |                  |                     | Ratification   |                   |
-
-[^1]: The instrument of ratification of the Agreement by New Zealand includes the following declaration:  “. . . consistent with the constitutional status of Tokelau and taking into account the commitment of the Government of New Zealand to the development of self-government for Tokelau through an act of self-determination under the Charter of the United Nations, this ratification shall not extend to Tokelau unless and until a Declaration to this effect is lodged by the Government of New Zealand with the Depositary on the basis of appropriate consultation with that territory . . .”  
 
 <div class="tile_div">
     <a href="https://federalist-4401490c-70b3-49a2-81a1-7175eeb5306d.app.cloud.gov/site/sldooley/test/protocolparties.pdf">Download a PDF of the Parties with Status</a>
           <div class="clear"></div>
 </div>
+
+
+<div style="font-size:14px;"><ol><li>The instrument of ratification of the Agreement by New Zealand includes the following declaration:  “. . . consistent with the constitutional status of Tokelau and taking into account the commitment of the Government of New Zealand to the development of self-government for Tokelau through an act of self-determination under the Charter of the United Nations, this ratification shall not extend to Tokelau unless and until a Declaration to this effect is lodged by the Government of New Zealand with the Depositary on the basis of appropriate consultation with that territory . . .” </li></ol> </div>

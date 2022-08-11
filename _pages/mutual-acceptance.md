@@ -25,22 +25,17 @@ The MAA benefits winemakers, exporters and importers by assuring them access to 
 
 
 
-| State           | Date of Deposit of Instrument | Status             | Date of Entry Into Force [^1] |
+| State           | Date of Deposit of Instrument | Status             | Date of Entry Into Force<sup>1</sup> |
 | :---            |    :----:                     | :----:             |  :---:                        |
 | Argentina       | Feb. 8, 2005                  | Accession          | Mar. 1, 2005                  |
 | Australia       | Feb. 22, 2005                 | Ratification       | Mar. 1, 2005                  |
 | Canada          | Nov. 27, 2002                 | Ratification       | Dec. 1, 2002                  |
 | Chile           | Nov. 5, 2003                  | Ratification       | Dec. 1, 2003                  |
 | Georgia         | May 10, 2012                  | Accession          | June 1, 2012                  |
-| New Zealand     | Feb. 25, 2005 [^2]            | Ratification       | Mar. 1, 2005                  |
+| New Zealand     | Feb. 25, 2005<sup>2</sup>     | Ratification       | Mar. 1, 2005                  |
 | South Africa    | July 18, 2011                 | Accession          | Aug. 1, 2011                  |
 | United States   | Nov. 27, 2002                 | Ratification       | Dec. 1, 2002                  |
-| Uruguay         | Apr. 18, 2018 [^3]            | Accession          | May 1, 2018                   |
-
-[^1]: In accordance with Article 12, paragraph 3, the Agreement enters into force on the first day of the month following the date of deposit of the second instrument of ratification, acceptance or approval. It shall enter into force for each subsequent signatory or acceding state on the first day of the month following the deposit of its instrument of ratification, acceptance, approval or accession.
-[^2]: The instrument of ratification of the Agreement by New Zealand includes the following declaration: “...consistent with the constitutional status of Tokelau and taking into account the commitment of the Government of New Zealand to the development of self-government for Tokelau through an act of self-determination under the Charter of the United Nations, this ratification shall not extend to Tokelau unless and until a Declaration to this effect is lodged by the Government of New Zealand with the Depositary on the basis of appropriate consultation with that territory...”  
-[^3]: The notification of accession to the Agreement by Uruguay includes the following interpretative declaration - Department of State English translation:“Upon accession to the Agreement on Mutual Acceptance of Oenological Practices, Uruguay hereby confirms that certain oenological practices are not recognized or admitted in domestic production, which does not prevent the import of certain wines provided that their authenticity and quality are duly accredited by the certifying authorities of the exporting country.” By note dated November 8, 2018, received on November 13, 2018, the Minister of Foreign Affairs of Uruguay notified the depositary of Uruguay’s decision to withdraw the interpretative declaration.  -Department of State,  Washington, May 2, 2019. 
-
+| Uruguay         | Apr. 18, 2018<sup>3</sup>     | Accession          | May 1, 2018                   |
 
 WWTG Governments can review members laws related to oenological practices via the [FIVS-Abridge database](http://fivs-abridge.com/index.htm;jsessionid=B22D42504DB5A6F47DD9122945C14123). 
 
@@ -48,3 +43,10 @@ WWTG Governments can review members laws related to oenological practices via th
     <a href="https://federalist-4401490c-70b3-49a2-81a1-7175eeb5306d.app.cloud.gov/site/sldooley/test/maaparties.pdf">Download a PDF of the Parties with Status</a>
           <div class="clear"></div>
 </div>
+
+<div style="font-size:14px;">
+    <ol>
+        <li>In accordance with Article 12, paragraph 3, the Agreement enters into force on the first day of the month following the date of deposit of the second instrument of ratification, acceptance or approval. It shall enter into force for each subsequent signatory or acceding state on the first day of the month following the deposit of its instrument of ratification, acceptance, approval or accession.</li>
+        <li>The instrument of ratification of the Agreement by New Zealand includes the following declaration: “...consistent with the constitutional status of Tokelau and taking into account the commitment of the Government of New Zealand to the development of self-government for Tokelau through an act of self-determination under the Charter of the United Nations, this ratification shall not extend to Tokelau unless and until a Declaration to this effect is lodged by the Government of New Zealand with the Depositary on the basis of appropriate consultation with that territory...” </li>
+        <li>The notification of accession to the Agreement by Uruguay includes the following interpretative declaration - Department of State English translation:“Upon accession to the Agreement on Mutual Acceptance of Oenological Practices, Uruguay hereby confirms that certain oenological practices are not recognized or admitted in domestic production, which does not prevent the import of certain wines provided that their authenticity and quality are duly accredited by the certifying authorities of the exporting country.” By note dated November 8, 2018, received on November 13, 2018, the Minister of Foreign Affairs of Uruguay notified the depositary of Uruguay’s decision to withdraw the interpretative declaration.  -Department of State,  Washington, May 2, 2019. </li>
+</ol> </div>

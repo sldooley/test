@@ -61,7 +61,7 @@ collections:
               - {label: Name, name: name, widget: string}
               - {label: Address, name: address, widget: string}
   - name: 'config'
-    label: 'Navigation'
+    label: 'Navigations'
     editor:
       preview: false
     files:

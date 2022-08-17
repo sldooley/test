@@ -34,7 +34,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
   - label: "Pages"
     name: "pages"
-    folder: _pages
+    folder: _pages/
     create: true
     files:
       - label: "About Page"

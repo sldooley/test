@@ -32,7 +32,7 @@ collections:
           timeFormat: false
         }
       - {label: "Body", name: "body", widget: "markdown"}
- - label: "Pages"
+  - label: "Pages"
     name: "pages"
     create: true
     files:
